@@ -53,6 +53,6 @@ food abundance and local hunger.
 - Add database reports
 
 ## Developed By
-- **Student Name:** Aleena Khan
+- **Name:** Aleena Khan
 - **Class / Semester:** Information Technology / 6th Semester
 - **Department Name:** Department of Information Technology, University of Layyah.
